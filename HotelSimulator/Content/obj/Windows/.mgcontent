@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/Cinema.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/Elevator.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/Elevator_Shaft.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/Gym.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/maid.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/Reception.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/Restaurant.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/Room.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/sim.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/Stairwell.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/Hallway.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/Room1.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/Room2.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/Room3.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/Room4.png</File>
+    <File>D:/HBO HHS/Jaar 2/Periode 1/Project/HotelSimulator/HotelSimulator/Content/Sprites/Room5.png</File>
+  </SourceFiles>
+</SourceFileCollection>
